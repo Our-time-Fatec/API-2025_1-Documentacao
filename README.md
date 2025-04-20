@@ -24,9 +24,9 @@ Isso proporcionará uma resposta mais eficaz às queimadas, apoiando ações de 
 Previsão de entrega das Sprints e relatótios:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 |  | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel1/README.md) |
-| 02 |  | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel2/README.md) |
-| 03 |  | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel3/README.md) |
+| 01 |  | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel1/README.md) |
+| 02 |  | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel2/README.md) |
+| 03 |  | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel3/README.md) |
 <span id="equipe">
 
 ## :busts_in_silhouette: Equipe
