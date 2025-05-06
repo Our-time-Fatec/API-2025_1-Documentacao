@@ -59,7 +59,7 @@ Previsão de entrega das Sprints e relatótios:
 
 ## Link do Código Front-End:
 
-(https://github.com/Our-time-Fatec/API-2025_1-Front)
+(https://github.com/Our-time-Fatec/ABP-2025_1-Front)
 
 ## Link do Código Back-End:
 
