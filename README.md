@@ -23,7 +23,7 @@ Isso proporcionará uma resposta mais eficaz às queimadas, apoiando ações de 
 ## 🖼️ Pré-visualização do sistema
 
 ### Tela de Login
-![Tela de Login](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/paginalogin.png)
+![Tela de Login](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/loginpage.png)
 
 ### Tela Principal (Mapa)
 ![Tela Principal](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/paginaprincipal.png)
