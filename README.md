@@ -23,10 +23,10 @@ Isso proporcionará uma resposta mais eficaz às queimadas, apoiando ações de 
 ## 🖼️ Pré-visualização do sistema
 
 ### Tela de Login
-<img src="./docs/paginalogin.png" alt="Tela de login do sistema" width="600"/>
+![Tela de Login](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/paginalogin.png)
 
-### Tela do Mapa
-<img src="./docs/paginaprincipal.png" alt="Tela principal com o mapa de cicatrizes" width="600"/>
+### Tela Principal (Mapa)
+![Tela Principal](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/paginaprincipal.png)
 
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatórios:
