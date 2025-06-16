@@ -50,10 +50,6 @@ Previsão de entrega das Sprints e relatórios:
 |      [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasRbnc)              | Lucas Roberto M. Nascimento  | Dev Team     |
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-4404b6119) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MuriloGGSilva)           | Murilo Gomes da Silva        | Dev Team      |
 
-# Prioridades 
-
-![Backlog](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/Backlog%202025-1.png)
-
 ## Tecnologias
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
