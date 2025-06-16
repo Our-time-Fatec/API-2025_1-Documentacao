@@ -10,33 +10,34 @@
    
 <span id="sobre">
 
-## :bookmark_tabs: Sobre o projeto
+## :bookmark_tabs: Sprint 3 – Processamento Inteligente de Imagens e Expansão das Funcionalidades de Usuário
 
-Para atender à necessidade de monitoramento eficiente de queimadas, propomos o desenvolvimento de um sistema em nuvem para o mapeamento automático de cicatrizes de fogo, utilizando imagens dos sensores WFI dos satélites CBERS4, CBERS4A e Amazonia 1.
+Na Sprint 3, avançamos de forma estratégica no núcleo da solução, com a implementação do módulo de inteligência artificial responsável pelo processamento automatizado das imagens dos sensores WFI. Esse componente realiza a identificação das cicatrizes de queimadas, aplicando modelos treinados para detecção de padrões em larga escala, com alta precisão e autonomia operacional.
 
-O sistema permitirá a análise contínua e em larga escala, com atualizações a cada ~3 dias, cobrindo todo o território nacional com boa resolução espacial.
+No frontend, ampliamos as funcionalidades voltadas à gestão de usuários, com o desenvolvimento da tela de registro, permitindo o cadastro de novos acessos ao sistema de forma prática e segura. Também foi criada uma interface dedicada à visualização das imagens já processadas pela IA, oferecendo uma experiência interativa para análise dos resultados gerados.
 
-A solução contará com funcionalidades como acesso remoto otimizado a imagens via catálogo STAC, visualização em resolução plena e processamento automatizado para identificar áreas queimadas, promovendo agilidade, padronização e redução da intervenção manual.
-
-Isso proporcionará uma resposta mais eficaz às queimadas, apoiando ações de combate, prevenção e conservação ambiental de forma precisa e escalável.
-
-## 🖼️ Pré-visualização do sistema
-
-### Tela de Login
-![Tela de Login](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/loginpage.png)
-
-### Tela Principal (Mapa)
-![Tela Principal](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/paginaprincipal.png)
+Essas entregas consolidam o sistema como uma ferramenta inteligente, acessível e escalável para o monitoramento de queimadas, marcando um avanço expressivo rumo à operacionalização completa da plataforma.
 
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatórios:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:-----------------:|:-------------------|:-------------------------------------------------:|
-| 01 | 15/04/2025        | ✔️ Concluída       | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel1/README.md) |
-| 02 | 13/05/2025        | ✔️ Concluída       | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel2/README.md) |
-| 03 | 10/06/2025        | ⚒️ Em andamento    | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel3/README.md) |
+| 01 | 24/03 - 15/04 | ✔ Completo | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel1/README.md) |
+| 02 | 16/04 - 13/05 | ✔ Completo | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel2/README.md) |
+| 03 | 14/05 - 16/06 | ✔ Completo | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel3/README.md) |
 
 <span id="equipe">
+
+## 🖼️ Imagens do sistema
+
+### Tela de Registro
+![Tela de Registro](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/register-sprint3.png)
+
+### Tela de Visualização de Imagens Processadas
+![Tela de Visualização de Imagens Processadas](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/mapregister-sprint3.png)
+
+### Processamento de imagens com a Inteligência Artificial
+![Tela de Visualização de Imagens Processadas](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/ai-sprint3.png)
 
 ## :busts_in_silhouette: Equipe
 
@@ -49,10 +50,6 @@ Previsão de entrega das Sprints e relatórios:
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/larissa-candido-70b199298](https://www.linkedin.com/in/lucascostadwn/)) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasdwn)           | Lucas Ferreira da Costa        | Dev Team      |
 |      [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasRbnc)              | Lucas Roberto M. Nascimento  | Dev Team     |
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-4404b6119) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MuriloGGSilva)           | Murilo Gomes da Silva        | Dev Team      |
-
-# Prioridades 
-
-![Backlog](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/Backlog%202025-1.png)
 
 ## Tecnologias
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
