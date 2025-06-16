@@ -17,7 +17,7 @@ Nesta primeira etapa do projeto, concentramos os esforços na definição da arq
 Paralelamente, iniciamos a estruturação do backend da aplicação, com a configuração dos ambientes de desenvolvimento, organização das rotas iniciais da API e definição da base para integração futura com os dados dos sensores WFI. Essa fundação técnica estabelece os pilares para as funcionalidades de visualização, análise e automação que serão implementadas nas sprints seguintes.
 
 A Sprint 1 marcou, assim, o início concreto da materialização da solução, promovendo alinhamento entre as equipes de design e desenvolvimento, além de garantir uma base sólida para a evolução contínua e escalável do sistema.
-    
+
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatótios:
 | Sprint | Previsão de entrega | Status           | Histórico |
@@ -26,6 +26,15 @@ Previsão de entrega das Sprints e relatótios:
 | 02 | 16/04 - 13/05 | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel2/README.md) |
 | 03 | 14/05 - 16/06 | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel3/README.md) |
 <span id="equipe">
+
+## 🖼️ Pré-visualização do sistema
+
+### Tela de Login
+![Tela de Login](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/login-sprint1.png)
+
+### Tela Principal (Mapa)
+![Tela Principal](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/mapview-sprint1.png)
+    
 
 ## :busts_in_silhouette: Equipe
 
