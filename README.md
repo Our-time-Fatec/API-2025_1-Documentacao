@@ -10,23 +10,21 @@
    
 <span id="sobre">
 
-## :bookmark_tabs: Sobre o projeto
+## :bookmark_tabs: Sprint 1 – Estruturação Inicial e Prototipação da Solução
 
-Para atender à necessidade de monitoramento eficiente de queimadas, propomos o desenvolvimento de um sistema em nuvem para o mapeamento automático de cicatrizes de fogo, utilizando imagens dos sensores WFI dos satélites CBERS4, CBERS4A e Amazonia 1.
+Nesta primeira etapa do projeto, concentramos os esforços na definição da arquitetura visual e técnica da plataforma de mapeamento automático de cicatrizes de fogo. Foram desenvolvidos os wireframes e protótipos no Figma, garantindo uma representação clara das interfaces e fluxos principais do sistema, com foco na usabilidade, acessibilidade e experiência do usuário.
 
-O sistema permitirá a análise contínua e em larga escala, com atualizações a cada ~3 dias, cobrindo todo o território nacional com boa resolução espacial.
+Paralelamente, iniciamos a estruturação do backend da aplicação, com a configuração dos ambientes de desenvolvimento, organização das rotas iniciais da API e definição da base para integração futura com os dados dos sensores WFI. Essa fundação técnica estabelece os pilares para as funcionalidades de visualização, análise e automação que serão implementadas nas sprints seguintes.
 
-A solução contará com funcionalidades como acesso remoto otimizado a imagens via catálogo STAC, visualização em resolução plena e processamento automatizado para identificar áreas queimadas, promovendo agilidade, padronização e redução da intervenção manual.
-
-Isso proporcionará uma resposta mais eficaz às queimadas, apoiando ações de combate, prevenção e conservação ambiental de forma precisa e escalável.
+A Sprint 1 marcou, assim, o início concreto da materialização da solução, promovendo alinhamento entre as equipes de design e desenvolvimento, além de garantir uma base sólida para a evolução contínua e escalável do sistema.
     
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatótios:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 24/02 - 22/04 | ✔ Completo | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel1/README.md) |
-| 02 |  | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel2/README.md) |
-| 03 |  | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel3/README.md) |
+| 01 | 24/03 - 15/04 | ✔ Completo | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel1/README.md) |
+| 02 | 16/04 - 13/05 | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel2/README.md) |
+| 03 | 14/05 - 16/06 | ⚒️ Em andamento | [ver relatório](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/rel3/README.md) |
 <span id="equipe">
 
 ## :busts_in_silhouette: Equipe
