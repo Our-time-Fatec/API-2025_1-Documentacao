@@ -10,23 +10,23 @@
    
 <span id="sobre">
 
-## :bookmark_tabs: Sobre o projeto
+## :bookmark_tabs: Sprint 2 – Autenticação, Visualização Geográfica e Avanços no Backend
 
-Para atender à necessidade de monitoramento eficiente de queimadas, propomos o desenvolvimento de um sistema em nuvem para o mapeamento automático de cicatrizes de fogo, utilizando imagens dos sensores WFI dos satélites CBERS4, CBERS4A e Amazonia 1.
+Na Sprint 2, evoluímos significativamente a funcionalidade da plataforma com a implementação da tela de login, garantindo o controle de acesso seguro ao sistema. Também foi incorporado o botão de logout, permitindo a finalização adequada das sessões de uso e reforçando as boas práticas de segurança e usabilidade.
 
-O sistema permitirá a análise contínua e em larga escala, com atualizações a cada ~3 dias, cobrindo todo o território nacional com boa resolução espacial.
+Outro avanço importante foi a integração do componente de visualização geográfica, com a inserção do mapa interativo na interface, que servirá como base para a exibição das cicatrizes de fogo identificadas. Essa funcionalidade é essencial para a navegação espacial e análise visual das áreas monitoradas.
 
-A solução contará com funcionalidades como acesso remoto otimizado a imagens via catálogo STAC, visualização em resolução plena e processamento automatizado para identificar áreas queimadas, promovendo agilidade, padronização e redução da intervenção manual.
+No backend, seguimos com a consolidação da estrutura da aplicação, aprimorando rotas, controladores e organizando os módulos de autenticação e preparação para os próximos serviços de processamento e acesso aos dados de satélite.
 
-Isso proporcionará uma resposta mais eficaz às queimadas, apoiando ações de combate, prevenção e conservação ambiental de forma precisa e escalável.
+A Sprint 2 reforçou a integração entre frontend e backend e estabeleceu os primeiros recursos funcionais da aplicação, aproximando a plataforma de seu objetivo operacional.
 
 ## 🖼️ Pré-visualização do sistema
 
 ### Tela de Login
-![Tela de Login](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/loginpage.png)
+![Tela de Login](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/login-sprint2.png)
 
 ### Tela Principal (Mapa)
-![Tela Principal](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/paginaprincipal.png)
+![Tela Principal](https://github.com/Our-time-Fatec/API-2025_1-Documentacao/blob/main/mapview-sprint2.png)
 
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatórios:
